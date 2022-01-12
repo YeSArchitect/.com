@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+## YeS Architect
 
-You can use the [editor on GitHub](https://github.com/YeSArchitect/office/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+YeS Architect works in the field of architectural design, drawings and consultancy.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ye Jin
+
+After working in China for around two years, I came to the Netherlands for a Master's degree. I graduated from TUDelft June, 2021, and gained my Master's degree in Architecture and Engineer. 
+
 
 ### Markdown
 
